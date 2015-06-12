@@ -171,6 +171,10 @@
 * [Jardín de JavaScript](http://bonsaiden.github.io/JavaScript-Garden/es)
 
 
+#### AngularJS
+* [Cómo aprender AngularJS](http://raulexposito.com/documentos/como-aprender-angularjs/)
+
+
 #### D3.js
 * [Tutorial de D3](http://gcoch.github.io/D3-tutorial/index.html)
 
